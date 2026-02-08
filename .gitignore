@@ -1,0 +1,12 @@
+# Sembunyikan file konfigurasi rahasia
+includes/config.php
+
+# File sistem & log
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jika nanti menggunakan folder sementara untuk upload sebelum di-push ke GitHub
+uploads/tmp/*
+!uploads/tmp/.gitkeep
