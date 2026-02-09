@@ -1,1 +1,0 @@
-<?php // GitHub API Script ?>
